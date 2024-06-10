@@ -27,12 +27,15 @@ public class SistemaMedida {
 		switch (plano) {
 			case "T": {
 				System.out.println("5Gb Youtube");
+                break;
 			}
 			case "M": {
 				System.out.println("WhatsApp e Instagram grátis");
+                break;
 			}
 			case "B": {
 				System.out.println("100 minutos de ligação");
+                break;
 			}
 		}
 	}
